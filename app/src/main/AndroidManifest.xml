@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.toussinodev.quisuis_je3e">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.toussinodev.quisuis_je3e.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:icon">
+        <activity android:name="com.toussinodev.quisuis_je3e.Activiter_propos"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name="com.toussinodev.quisuis_je3e.Activiter_astuce"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.folder_niveau.Niveau7_activiter"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.folder_niveau.Niveau6_activiter"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.folder_niveau.Niveau5_activiter"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.folder_niveau.Niveau4_activiter"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.folder_niveau.Niveau3_activiter"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.folder_niveau.Niveau2_activiter"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.folder_niveau.Niveau1_activiter"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.teste_activiter"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.Activiter_fleaux"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.Activiter_maladie"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.Activiter_maternite"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.Activiter_caracteristique"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.Activiter_urinaire"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.Activiter_respiratoire"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.Activiter_circulatoire"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.Activiter_sang"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.Activiter_aliment"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.Activiter_oeil"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.Activiter_nerveux"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.Activiter_muscle"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.Squelette_activiter"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.Reviser"
+            android:screenOrientation="portrait"/> <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-4368197516288969~2156307121" />
+
+        <activity android:name="com.toussinodev.quisuis_je3e.SplashCrine"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.toussinodev.quisuis_je3e.MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

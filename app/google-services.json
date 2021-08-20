@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "817014877093",
+    "project_id": "qui-suis-je-3e-24f1d",
+    "storage_bucket": "qui-suis-je-3e-24f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817014877093:android:6e8d703c1a46cbdb35164c",
+        "android_client_info": {
+          "package_name": "com.toussinodev.quisuis_je3e"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817014877093-hq7okklsm7mmuqbllqlpdetb0dkhacbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toussinodev.quisuis_je3e",
+            "certificate_hash": "db26d6c96b9db1446b7f7858007823245b7b60e6"
+          }
+        },
+        {
+          "client_id": "817014877093-8n2565ok4t5vooahgeeroslfnnvqjgq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsiSJ6sBdOvVWwPTfAvfWjzgCV49CAh58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817014877093-8n2565ok4t5vooahgeeroslfnnvqjgq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

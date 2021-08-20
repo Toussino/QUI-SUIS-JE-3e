@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">QUI SUIS-JE 3e</string>
+    <string name="astuce">
+        L’application "qui suis-je 3e" a pour objectif d’aider les élèves de la classe de troisième à
+        réviser de façon ludique leurs cours de sciences de la vie et de la terre (SVT).
+
+    </string>
+    <string name="phrase2">
+        L’application "qui suis-je 3e" est subdivisée en deux (02) parties.
+    </string>
+    <string name="phrase3">
+        La première partie je révise mes cours de SVT comporte treize (13) chapitres.
+    </string>
+    <string name="phrase4">
+        La deuxième partie je teste mon niveau en SVT quant à elle compte huit (08) niveaux pouvant
+        comporter 10 à 30 questions selon le niveau.
+    </string>
+    <string name="phrase5">
+        Les questions de la partie 1 et 2 sont posées de façon aléatoire et peuvent donc se répéter
+        une ou plusieurs fois au cours d’un même chapitre/niveau
+    </string>
+    <string name="phrase6">
+        Si la réponse à la question posée est VRAI une boite de dialogue avec le message bonne réponse
+        s’affiche.
+    </string>
+    <string name="phrase7">
+        Si la réponse à la question posée est FAUX une boite de dialogue avec le message mauvaise réponse
+        s’affiche, suivi de la réponse exacte.
+    </string>
+    <string name="phrase8">
+        Sur certains téléphones, une partie seulement de la bonne reponse s’affiche.
+    </string>
+    <string name="phrase9">
+        L’application dispose d’un compteur de questions intégré qui s’affiche en haut a gauche de chaque
+        chapitre/niveau pour indiquer à l’élève la question à laquelle il est sur le point de répondre.
+    </string>
+    <string name="phrase10">
+        L’application dispose d’un compteur de score intégré qui s’affiche en haut à droite de chaque
+        chapitre/niveau pour indiquer à l’élève le score qu’il a réalisé.
+    </string>
+    <string name="phrase11">
+        Sur certains téléphones, une différence de design peut se présenter différence et ou absence
+        de couleurs et d’encadrement.
+    </string>
+    <string name="phrase12">
+        Vous pouvez nous laisser vos avis, commentaires, recommandations, critiques et suggestions afin
+        de nous aider à améliorer l’application pour vous dans la rubrique noter l’application
+    </string>
+    <string name="phrase13">
+        Allez champion, prêt à relever le défi en SVT et réussir ta préparation aux examens du BEPC !
+    </string>
+
+
+
+    <string name="parole">
+        QUI SUIS-JE 3e est une application gratuite
+    </string>
+
+
+</resources>
